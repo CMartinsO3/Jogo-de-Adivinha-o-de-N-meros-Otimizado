@@ -5,5 +5,6 @@ Grupo:
 Ana Beatriz de Oliveira Souza
 Bruna Ferreira Tiburtino
 Caio Martins Oliveira
+Hilton Resende
 Luís Felipe Carneiro da Silva
 Priscila Pontes Martins da Cunha
